@@ -1,5 +1,4 @@
-import { HelloWorld } from "../../components/Test";
-
+import { HelloWorld } from "../components/Test";
 
 export default{
     title: "Hello World"
